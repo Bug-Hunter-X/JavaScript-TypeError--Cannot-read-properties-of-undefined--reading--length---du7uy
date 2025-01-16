@@ -1,0 +1,3 @@
+# JavaScript TypeError: Cannot read properties of undefined (reading 'length')
+
+This repository demonstrates a common JavaScript error: `TypeError: Cannot read properties of undefined (reading 'length')`.  The `bug.js` file contains code that throws this error. The `bugSolution.js` demonstrates how to fix it.  The error occurs when attempting to access the `length` property of a variable that has not been assigned a value, or is specifically `undefined`.  Proper error handling and input validation are crucial to prevent such issues.
